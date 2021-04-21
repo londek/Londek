@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Londek
+- 👀 I’m interested in programming and computer security
+- 🌱 I’m currently learning React and Electron
+- 💞️ I’m looking to collaborate on Kerbol Launcher
