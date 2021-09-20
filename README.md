@@ -1,6 +1,6 @@
 ## I'm a Developer and a student
 - 👋 Hi, I’m @Londek
-- 🎓 I'm currently doing school in programming degree 🖥️
+- 🎓 I'm currently doing programming degree 🖥️
 - 👀 I’m interested in programming and cyber security
 - 💬 I've always been interested in how computers work, so I started programming in 4th grade
 
