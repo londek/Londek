@@ -18,7 +18,7 @@
 <img style="margin-right: 10px;" align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
-<img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-plain.svg" />
+<img style="margin-right: 10px;" align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg" />
 <br />
 <br />
 
