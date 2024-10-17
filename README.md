@@ -1,4 +1,4 @@
-## I'm a Developer and a student
+## I'm a Developer and a Student
 - 👋 Hi, I’m @Londek
 - 🎓 I'm currently doing programming degree 🖥️
 - 👀 I’m interested in programming and cyber security
