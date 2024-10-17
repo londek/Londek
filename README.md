@@ -22,4 +22,4 @@
 <br />
 <br />
 
-<img align="left" alt="Londek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=londek&show_icons=true&theme=dracula" />
+<img align="left" alt="Londek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=londek&show_icons=true&theme=transparent" />
